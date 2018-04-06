@@ -1,6 +1,6 @@
 test: *.java
 	javac -g *.java
 	
-cl:
+clean:
 	rm *.class
 	clear
